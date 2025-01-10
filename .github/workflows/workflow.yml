@@ -1,4 +1,4 @@
-name: Deploy AWS Glue Job V3
+name: Deploy AWS Glue Job V4
 on:
   push:
     branches:

@@ -22,7 +22,7 @@ elif table_name=='apartments':
 # Database configuration
 db_endpoint = "apartment-rentals.c1yklxlrd3gk.us-east-1.rds.amazonaws.com"
 db_username = "admin"
-db_password = "Etl123$$"
+db_password = ""
 db_name = "rental_apartments"
 s3_bucket = "nl-aws-de-labs"
 
